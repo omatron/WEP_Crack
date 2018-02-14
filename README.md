@@ -1,5 +1,7 @@
 # WEP_Crack
 
+A very simple tool to automate WEP Cracking
+
 ## Prerequisites
 
 ```
