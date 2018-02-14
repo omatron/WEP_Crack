@@ -4,8 +4,8 @@
 
 #Our scripts were tested on Kali Linux. To install the required dependencies on Kali, execute:
 
-apt-get update
-apt-get install libnl-3-dev libnl-genl-3-dev pkg-config libssl-dev net-tools git sysfsutils python-scapy pyth
+sudo apt-get update
+sudo apt-get install aircrack-ng
 
 #Disclaimer
 
