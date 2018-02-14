@@ -1,11 +1,12 @@
 # WEP_Crack
 
-#Prerequisites
+## Prerequisites
 
-#Our scripts were tested on Kali Linux. To install the required dependencies on Kali, execute:
-
+```
 sudo apt-get update
+
 sudo apt-get install aircrack-ng
+```
 
 #Disclaimer
 
